@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rows>
+    <row>
+        <comune name="Comune">"AVELENGO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Merano"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Meraner-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1940"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0473-279405"</telefono>
+        <e_mail name="E-Mail">"info@meranerhuette.it"</e_mail>
+        <internet name="Internet">"www.meranerhuette.it"</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Gardenaccia"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Gardenazza-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2045"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-840128"</telefono>
+        <e_mail name="E-Mail">"info@gardenacia.it"</e_mail>
+        <internet name="Internet">"www.gardenacia.it"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Santa Croce"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Heilgkreuz"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2045"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-839632"</telefono>
+        <e_mail name="E-Mail">"s.croce@rolmail.net"</e_mail>
+        <internet name="Internet">"www.lacrusc.com"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Scotoni"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Scotoni-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1985"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-847330"</telefono>
+        <e_mail name="E-Mail">"info@scotoni.it"</e_mail>
+        <internet name="Internet">"www.scotoni.it"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BARBIANO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Corno Renon"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Rittner-Horn-Haus"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2259"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0471-356207"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BRAIES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Vallandro"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Dürrensteinhütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2040"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0474-972505"</telefono>
+        <e_mail name="E-Mail">"info@vallandro.it"</e_mail>
+        <internet name="Internet">"www.vallandro.it"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BRENNERO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Calciati al Tribulaun"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Tribulaun-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2368"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0472-632470"</telefono>
+        <e_mail name="E-Mail">"info@tribulaunhuette.com"</e_mail>
+        <internet name="Internet">"www.tribulaunhuette.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BRENNERO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Cima Gallina"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Hühnerspiel-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1868"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"335-5666181"</telefono>
+        <e_mail name="E-Mail">"info@huehnerspielhuette"</e_mail>
+        <internet name="Internet">"www.huehnerspielhuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BRENNERO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Cremona alla Stua"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Magdeburger-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2423"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0472-632472"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.13rifugi.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BRENNERO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Genziana"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Enzian-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1894"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0472-631224"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BRESSANONE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Plose"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Plose-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2446"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0472-521333"</telefono>
+        <e_mail name="E-Mail">"plosehuette@dnet.it"</e_mail>
+        <internet name="Internet">"www.plosehuette.com"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"BRESSANONE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Schatzer"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schatzer-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2004"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0472-521343"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.schatzerhuette.com"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CAMPO DI TRENS"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Simile Mahd"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Simile-Mahd-Alm-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2011"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0472-647162"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CAMPO TURES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Roma"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Kasseler-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2276"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0474-672550"</telefono>
+        <e_mail name="E-Mail">"info@kasseler-huette.com"</e_mail>
+        <internet name="Internet">"www.kasseler-huette.com"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CASTELROTTO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Bullaccia"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Puflatsch-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1950"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-729090"</telefono>
+        <e_mail name="E-Mail">"info@dibaita-puflatschhuette.com"</e_mail>
+        <internet name="Internet">"www.dibaita-puflatschhuette.com"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CASTELROTTO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Mahlknecht"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Mahlknecht-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2054"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-727912"</telefono>
+        <e_mail name="E-Mail">"info@mahlknechthuette.com"</e_mail>
+        <internet name="Internet">"www.mahlknechthuette.com"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CASTELROTTO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Schlernbödele"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schlernbödele-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1700"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0471-705345"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.schlernboedelehuette.it"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CHIUSA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Chiusa"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Klausner-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1923"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0472-545194"</telefono>
+        <e_mail name="E-Mail">"ramoser.robert@gmail.com"</e_mail>
+        <internet name="Internet">"www.klausnerhuette.it"</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CHIUSA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Santa Croce"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Latzfonser-Kreuz-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2302"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0472-545017"</telefono>
+        <e_mail name="E-Mail">"info@latzfonserkreuz.com"</e_mail>
+        <internet name="Internet">"www.latzfonserkreuz.com"</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CORVARA IN BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Cavazza al Pisciadù"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Pisciadù-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2585"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0471-836292"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CORVARA IN BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Crëp de Munt"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Crëp-de-Munt-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1959"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"349-0842885"</telefono>
+        <e_mail name="E-Mail">"info@crepdemunt"</e_mail>
+        <internet name="Internet">"www.crepdemunt.it"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CORVARA IN BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Franz Kostner al Vallon"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Franz-Kostner-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2550"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"333-8759838"</telefono>
+        <e_mail name="E-Mail">"info@rifugiokostner.it"</e_mail>
+        <internet name="Internet">"www.rifugiokostner.it"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CORVARA IN BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Puez"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Puez-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2475"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0471-795365"</telefono>
+        <e_mail name="E-Mail">"info@rifugiopuez.it"</e_mail>
+        <internet name="Internet">"www.rifugiopuez.it"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"CURON VENOSTA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Pio XI"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Weißkugel-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2542"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-633191"</telefono>
+        <e_mail name="E-Mail">"info@weisskugel.it"</e_mail>
+        <internet name="Internet">"www.weisskugel.it"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"DOBBIACO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"A. Locatelli - S. Innerkofler"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Drei-Zinnen-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2405"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0474-972002"</telefono>
+        <e_mail name="E-Mail">"dreizinnenhuette@rolmail.net"</e_mail>
+        <internet name="Internet">"www.dreizinnenhuette.com"</internet>
+        <gruppo name="Gruppo">"Dolomiti di Sesto"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"DOBBIACO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Bonner"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Bonnerhütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2340"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Comune Dobbiaco"</propriet_>
+        <telefono name="Telefono">"340-9428264"</telefono>
+        <e_mail name="E-Mail">"info@bonnerhuette.it"</e_mail>
+        <internet name="Internet">"www.bonnerhuette.it"</internet>
+        <gruppo name="Gruppo">"Dolomiti di Sesto"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"FIE&apos; ALLO SCILIAR"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Bolzano al Monte Pez"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schlernhaus"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2450"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0471-612024"</telefono>
+        <e_mail name="E-Mail">"info@schlernhaus.it"</e_mail>
+        <internet name="Internet">"www.schlernhaus.it"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"FORTEZZA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Puntleider-Alm-Hütte"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Malga Pontelletto"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1777"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"349-6442391"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"FUNES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Genova"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schlüter-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2297"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0472-840132"</telefono>
+        <e_mail name="E-Mail">"info@schlueterhuette.com"</e_mail>
+        <internet name="Internet">"www.schlueterhuette.com"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"FUNES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Malga Brogles"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Brogles-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2045"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-655642"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"LUSON"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Prato Croce"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Kreuzwiese-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1924"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0472-413714"</telefono>
+        <e_mail name="E-Mail">"info@kreuzwiesenalm.com"</e_mail>
+        <internet name="Internet">"www.kreuzwiesenalm.com"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MALLES VENOSTA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Oberettes"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Oberettes-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2670"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0473-830280"</telefono>
+        <e_mail name="E-Mail">"info@oberettes.it"</e_mail>
+        <internet name="Internet">"www.oberettes.it"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MALLES VENOSTA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Sesvenna"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Sesvenna-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2256"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0473-830234"</telefono>
+        <e_mail name="E-Mail">"info@sesvenna.it"</e_mail>
+        <internet name="Internet">"www.sesvenna.it"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MAREBBE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Fanes"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Fanes-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2060"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0474-501097"</telefono>
+        <e_mail name="E-Mail">"info@rifugiofanes.com"</e_mail>
+        <internet name="Internet">"www.rifugiofanes.com"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MAREBBE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Fodara Vedla"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Fodara-Vedla-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1965"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0474-501093"</telefono>
+        <e_mail name="E-Mail">"rifugio@fodara.it"</e_mail>
+        <internet name="Internet">"www.fodara.it"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MAREBBE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Lavarella"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"La-Varella-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2042"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0474-501079"</telefono>
+        <e_mail name="E-Mail">"rifugio@lavarella.it"</e_mail>
+        <internet name="Internet">"www.lavarella.it"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MAREBBE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Munt de Sennes"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Munt de Sennes"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2200"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0474-501311"</telefono>
+        <e_mail name="E-Mail">"info@muntdesennes.com"</e_mail>
+        <internet name="Internet">"www.muntdesennes.com"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MAREBBE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Sennes"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Sennes-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2176"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0474-501092"</telefono>
+        <e_mail name="E-Mail">"info@sennes.com"</e_mail>
+        <internet name="Internet">"www.sennes.com"</internet>
+        <gruppo name="Gruppo">"Fanes - Sennes"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MARTELLO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Lifi Alm"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Lifi-Alm-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2165"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Comune di Martello"</propriet_>
+        <telefono name="Telefono">"0473-744708"</telefono>
+        <e_mail name="E-Mail">"info@lyfialm.it"</e_mail>
+        <internet name="Internet">"www.lyfialm.it"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MARTELLO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Martello"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Marteller-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2610"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0473-744790"</telefono>
+        <e_mail name="E-Mail">"info@martellerhuette.com"</e_mail>
+        <internet name="Internet">"www.martellerhuette.com"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MARTELLO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Nino Corsi"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Zufall-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2265"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-744785"</telefono>
+        <e_mail name="E-Mail">"info@zufallhuette.com"</e_mail>
+        <internet name="Internet">"www.zufallhuette.com"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MOSO IN PASSIRIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Hochalm"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Hochalm-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2174"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"348-4110362"</telefono>
+        <e_mail name="E-Mail">"f.gufler@gmx.net"</e_mail>
+        <internet name="Internet">"www.13rifugi.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MOSO IN PASSIRIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Monteneve"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schneeberg-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2355"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-647045"</telefono>
+        <e_mail name="E-Mail">"info@schneeberg.org"</e_mail>
+        <internet name="Internet">"www.monteneve.org"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MOSO IN PASSIRIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Petrarca all&apos;Altissima"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Stettiner-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2875"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-646789"</telefono>
+        <e_mail name="E-Mail">"stettiner@13h.de"</e_mail>
+        <internet name="Internet">"www.13rifugi.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"MOSO IN PASSIRIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Plan"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Zwickauer-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2979"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-646002"</telefono>
+        <e_mail name="E-Mail">"zwickauerhuette@13h.de"</e_mail>
+        <internet name="Internet">"www.13rifugi.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"ORTISEI"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Rasciesa"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Raschötz-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2170"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Comune Ortisei"</propriet_>
+        <telefono name="Telefono">"333-3380868"</telefono>
+        <e_mail name="E-Mail">"info@rifugioresciesa.com"</e_mail>
+        <internet name="Internet">"www.rifugioresciesa.com"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"PARCINES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Cima Fiammante"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Lodner-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2262"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-967367"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"PARCINES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Hochgang"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Hochganghaus"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1834"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0473-443310"</telefono>
+        <e_mail name="E-Mail">"erlacher@hochganghaus.it"</e_mail>
+        <internet name="Internet">"www.hochganghaus.it"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"PARCINES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Nassereto"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Nassereith-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1523"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Interessenza Ziel-Alm"</propriet_>
+        <telefono name="Telefono">"0473-968222
+            340-4941347"
+        </telefono>
+        <e_mail name="E-Mail">"info@nasereit.com"</e_mail>
+        <internet name="Internet">"www.nasereit.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"PREDOI"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Brigata Tridentina"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Birnlücken-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2441"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0474-654140"</telefono>
+        <e_mail name="E-Mail">"info@pension-knappenhof.com"</e_mail>
+        <internet name="Internet">"www.pension-knappenhof.com"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"PREDOI"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Giogo Lungo"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Lenkjöchl-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2590"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0474-654144"</telefono>
+        <e_mail name="E-Mail">"info@lenkl.com"</e_mail>
+        <internet name="Internet">"www.lenkl.com"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"RACINES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Cima Libera"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Müller-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"3148"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0472-647373
+            329-2346943"
+        </telefono>
+        <e_mail name="E-Mail">"info@muellerhuette.eu"</e_mail>
+        <internet name="Internet">"www.muellerhuette.eu"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"RACINES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"G. Biasi al Bicchiere"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Becherhaus"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"3190"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0472-656377"</telefono>
+        <e_mail name="E-Mail">"e.pichler@becherhaus.com"</e_mail>
+        <internet name="Internet">"www.becherhaus.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"RACINES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Vedretta Pendente"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Teplitzer-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2586"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"338-1358371"</telefono>
+        <e_mail name="E-Mail">"info@teplitzerhuette.com"</e_mail>
+        <internet name="Internet">"www.teplitzerhuette.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"RACINES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Vedretta Piana"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Grohmann-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2254"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"348-2400286"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"RASUN ANTERSELVA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Vedretta di Ries"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Rieserferner-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2792"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0474-492125"</telefono>
+        <e_mail name="E-Mail">"info@rieserfernerhuette.it"</e_mail>
+        <internet name="Internet">"www.rieserfernerhuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"RIO DI PUSTERIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Bressanone"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Brixner-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2300"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0472-547131"</telefono>
+        <e_mail name="E-Mail">"info@brixnerhuette.it"</e_mail>
+        <internet name="Internet">"www.brixnerhuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"RIO DI PUSTERIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Wieser"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Wieser-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1833"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0472-520350"</telefono>
+        <e_mail name="E-Mail">"info@schutzhaus-wieserhuette.com"</e_mail>
+        <internet name="Internet">"www.schutzhaus-wieserhuette.com"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SAN MARTINO IN BADIA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Montemuro"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Maurerberg-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2130"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0474-520059"</telefono>
+        <e_mail name="E-Mail">"info@maurerberg.it"</e_mail>
+        <internet name="Internet">"www.maurerberg.it"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SANTA CRISTINA VALGARDENA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Firenze"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Regensburger-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2037"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0471-796307"</telefono>
+        <e_mail name="E-Mail">"info@rifugiofirenze.com"</e_mail>
+        <internet name="Internet">"www.rifugiofirenze.com"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SANTA CRISTINA VALGARDENA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Vicenza al Sasso Lungo"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Langkofelhütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2253"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0471-792323"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SARENTINO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Kesselberg"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Kesselberg-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2300"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0473-279477"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SCENA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Malga Hinteregg"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Hintereggalm"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1974"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"339-6252609"</telefono>
+        <e_mail name="E-Mail">"info@hintereggalm.eu"</e_mail>
+        <internet name="Internet">"www.hintereggalm.eu"</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SCENA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Picco Ivigna"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Ifinger-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1815"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0473-965111"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">""</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SELVA DEI MOLINI"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Giovanni Porro"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Chemnitzer-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2420"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0474-653244"</telefono>
+        <e_mail name="E-Mail">"info@chemnitzerhuette.com"</e_mail>
+        <internet name="Internet">"www.chemnitzerhuette.com"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SELVA DEI MOLINI"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Ponte di Ghiaccio"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Edelraut-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2545"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0474-653230"</telefono>
+        <e_mail name="E-Mail">"info@edelrauthuette.it"</e_mail>
+        <internet name="Internet">"www.edelrauthuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SELVA DI VAL GARDENA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Juac"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Juac-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1905"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"335-8082321"</telefono>
+        <e_mail name="E-Mail">"info@juac.it"</e_mail>
+        <internet name="Internet">"www.juac.it"</internet>
+        <gruppo name="Gruppo">"Odle - Puez - Sella"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SELVA DI VAL GARDENA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Toni Demetz"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Toni-Demetz-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2685"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-795050
+            335-6586796"
+        </telefono>
+        <e_mail name="E-Mail">"info@tonidemetz.it"</e_mail>
+        <internet name="Internet">"www.tonidemetz.it"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SENALES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Bella Vista"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schöne-Aussicht-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2842"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0473-662140"</telefono>
+        <e_mail name="E-Mail">"info@schoeneaussicht.it"</e_mail>
+        <internet name="Internet">"www.schoeneaussicht.it"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SENALES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Similaun"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Similaun-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"3018"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0473-669711"</telefono>
+        <e_mail name="E-Mail">"info@vent-hotel-post.com"</e_mail>
+        <internet name="Internet">"www.vent-hotel-post.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SESTO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Pian di Cengia"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Büllelejoch-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2528"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"337-451517"</telefono>
+        <e_mail name="E-Mail">"info@rogger.info"</e_mail>
+        <internet name="Internet">"www.rogger.info"</internet>
+        <gruppo name="Gruppo">"Dolomiti di Sesto"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"SESTO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Zsigmondy-Comici"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Zsigmondy-Comici-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2224"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0474-710358"</telefono>
+        <e_mail name="E-Mail">"info@zsigmondyhuette.com"</e_mail>
+        <internet name="Internet">"www.zsigmondyhuette.com"</internet>
+        <gruppo name="Gruppo">"Dolomiti di Sesto"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"STELVIO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Aldo e Vanni Borletti"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Bergl-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2188"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">""</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.berglhuette.it"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"STELVIO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Città di Milano"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schaubach-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2581"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-613002"</telefono>
+        <e_mail name="E-Mail">"info@schaubachhuette.it"</e_mail>
+        <internet name="Internet">"www.schaubachhuette.it"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"STELVIO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Coston"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Hintergrat-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2661"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0473-613188"</telefono>
+        <e_mail name="E-Mail">"info@hintergrathuette.com"</e_mail>
+        <internet name="Internet">"www.hintergrathuette.com"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"STELVIO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Julius Payer"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Payer-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"3020"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-613010"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.payerhuette.com"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"STELVIO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Serristori"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Düsselldorfer-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2721"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0473-613115"</telefono>
+        <e_mail name="E-Mail">"info@duesseldorferhuette.com"</e_mail>
+        <internet name="Internet">"www.duesseldorferhuette.com"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"STELVIO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Tabaretta"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Tabaretta-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2556"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"347-2614872"</telefono>
+        <e_mail name="E-Mail">"info@tabaretta.com"</e_mail>
+        <internet name="Internet">"www.tabaretta.com"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TERENTO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Lago della Pausa"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Tiefrasten-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2312"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0474-554999"</telefono>
+        <e_mail name="E-Mail">"info@tiefrastenhuette.it"</e_mail>
+        <internet name="Internet">"www.tiefrastenhuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TERMENO SULLA STRADA DEL VINO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Oltradige al Roen"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Überetscher-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1973"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0471-812031"</telefono>
+        <e_mail name="E-Mail">"info@rifugioroen.it"</e_mail>
+        <internet name="Internet">"www.rifugioroen.it"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TIRES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Alpe di Tires"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Tierser Alpl"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2440"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0471-727958"</telefono>
+        <e_mail name="E-Mail">"info@tierseralpl.com"</e_mail>
+        <internet name="Internet">"www.tierseralpl.com"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TIRES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Bergamo"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Grasleiten-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2134"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0471-642103"</telefono>
+        <e_mail name="E-Mail">"grasleitenhuette@tiersertal.com"</e_mail>
+        <internet name="Internet">"www.tiersertal.com/grasleiten"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TIRES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Passo Santner"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Santnerpass-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2734"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"340-6562228"</telefono>
+        <e_mail name="E-Mail">"CHIUSO"</e_mail>
+        <internet name="Internet">"CHIUSO"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TIRES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Rè Alberto"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Gartl-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2621"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0462-763428"</telefono>
+        <e_mail name="E-Mail">"info@rifugiorealberto.com"</e_mail>
+        <internet name="Internet">"www.rifugiorealberto.com"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TIRES"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Tschafon (Monte Cavone)"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Tschafon-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1733"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"347-6586796"</telefono>
+        <e_mail name="E-Mail">"info@schutzhaus.tschafon.com"</e_mail>
+        <internet name="Internet">"www.schutzhaus-tschafon.com"</internet>
+        <gruppo name="Gruppo">"Catinaccio - Sciliar - Sassolungo"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TIROLO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Bocker"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Bocker-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"1717"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Interessenza Spronser Alp"</propriet_>
+        <telefono name="Telefono">"0473-945544"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.bockerhuette.com"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"TIROLO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Oberkaser"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Oberkaser-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2135"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Interessenza Spronser Alp"</propriet_>
+        <telefono name="Telefono">"0473-923488"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.dorftirol.com/oberkaseralm"</internet>
+        <gruppo name="Gruppo">"Sesvenna - Alpi Venoste e Stubai - Tessa"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"ULTIMO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"U. Canziani"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Höchster-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2560"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0473-798120"</telefono>
+        <e_mail name="E-Mail">"info@rifugiocanziani.it"</e_mail>
+        <internet name="Internet">"www.rifugiocanziani.it"</internet>
+        <gruppo name="Gruppo">"Ortles - Mendola"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"VAL DI VIZZE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Gran Pilastro"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Hochfeiler-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2710"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0472-646071"</telefono>
+        <e_mail name="E-Mail">"info@hochfeilerhuette.it"</e_mail>
+        <internet name="Internet">"www.hochfeilerhuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"VAL DI VIZZE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Rifugio Passo di Vizze"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Pfitscherjoch"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2276"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Privato"</propriet_>
+        <telefono name="Telefono">"0472-630119"</telefono>
+        <e_mail name="E-Mail">"office@pfitscherjochhaus.com"</e_mail>
+        <internet name="Internet">"www.pfitscherjochhaus.com"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"VAL DI VIZZE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Venna alla Gerla"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Landshuterh. (Europah.)"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2690"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"C.A.I."</propriet_>
+        <telefono name="Telefono">"0472-646076"</telefono>
+        <e_mail name="E-Mail">"info@europahuette.it"</e_mail>
+        <internet name="Internet">"www.europahuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"VAL DI VIZZE"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Vipiteno"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Sterzinger-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2344"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0472-646074"</telefono>
+        <e_mail name="E-Mail">""</e_mail>
+        <internet name="Internet">"www.sterzingerhuette.it"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"VALLE AURINA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Vitt.Veneto Sasso Nero"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Schwarzenstein-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2922"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">""</telefono>
+        <e_mail name="E-Mail">"knapp@rolmail.net"</e_mail>
+        <internet name="Internet">"www.schwarzensteinhuette.com"</internet>
+        <gruppo name="Gruppo">"Alpi Aurine - Vedrette di Ries"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"VARNA"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Forcella Vallaga"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Flaggerscharten-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2481"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"Provincia Autonoma di Bolzano"</propriet_>
+        <telefono name="Telefono">"0471-625251"</telefono>
+        <e_mail name="E-Mail">"info@flaggerschartenhuette.com"</e_mail>
+        <internet name="Internet">"www.flaggerschartenhuette.com"</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+    <row>
+        <comune name="Comune">"VELTURNO"</comune>
+        <provincia name="Provincia">"BOLZANO"</provincia>
+        <nome_italiano_rifugio name="Nome italiano rifugio">"Lago Rodella"</nome_italiano_rifugio>
+        <nome_tedesco_rifugio name="Nome tedesco rifugio">"Radlsee-Hütte"</nome_tedesco_rifugio>
+        <altitudine_in_metri name="Altitudine in metri">"2284"</altitudine_in_metri>
+        <propriet_ name="Proprietà">"AVS"</propriet_>
+        <telefono name="Telefono">"0472-855230"</telefono>
+        <e_mail name="E-Mail">"info@radlseehuette.it"</e_mail>
+        <internet name="Internet">"www.radlseehuette.it"</internet>
+        <gruppo name="Gruppo">"Monti Sarentini"</gruppo>
+    </row>
+
+</rows>
