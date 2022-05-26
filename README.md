@@ -1,7 +1,7 @@
 # ServletRifugi
-Servlet per educazione civica con gli opendata dei rifugi di bolzano
+Servlet per educazione civica con gli opendata dei rifugi di Bolzano
 
-La professoressa DEE MARTEENO ci ha chiesto di fare una servlet sugli open data per educazione civica.
+La professoressa Di Martino ci ha chiesto di fare una servlet sugli open data per educazione civica.
 
 La Web-API:
 
